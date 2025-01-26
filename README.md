@@ -1,5 +1,7 @@
 # DIO LAB - Fake Natty Or Not
 
+> ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui aluna na plataforma da [DIO](https://dio.me)
+
 ## 📒 Descrição
 Utilizando a ferramenta de text to image, solicitei uma imagem de uma abelha em uma flor azul, com a opção magic prompt ativada.
 
@@ -12,7 +14,7 @@ Dreamy botanical illustration. Close-up. A bee sleeping in a blue flower. Macro 
 ## 🚀 Resultados
 <p align="center">
 <img 
-    src="https://github.com/vicataborda/e-book-palavras-do-agora-versos-da-alma-Vitoria-C-Taborda/blob/main/capa%20ebook.jpg"
+    src="https://github.com/vicataborda/DIO-LAB---Fake-Natty-Or-Not-/blob/main/6HoM79tuRfMeApc6OPKX--1--j769o.jpg"
     width="400"  
 />
 </p>
